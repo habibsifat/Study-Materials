@@ -14,22 +14,22 @@
           <mxGeometry height="300" width="20" x="410" y="170" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="230" width="20" x="310" y="170" as="geometry" />
+          <mxGeometry height="110" width="20" x="310" y="170" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="230" width="20" x="330" y="170" as="geometry" />
+          <mxGeometry height="110" width="20" x="330" y="170" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-6" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cash&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Counter&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="40" x="230" y="400" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="Racks" vertex="1">
-          <mxGeometry height="30" width="60" x="310" y="280" as="geometry" />
+          <mxGeometry height="30" width="60" x="310" y="210" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="Racks" vertex="1">
           <mxGeometry height="30" width="60" x="390" y="320" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="Racks" vertex="1">
-          <mxGeometry height="30" width="60" x="290" y="270" as="geometry" />
+          <mxGeometry height="30" width="60" x="290" y="210" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="Racks" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="290" as="geometry" />
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="30 Feet" vertex="1">
           <mxGeometry height="30" width="60" x="180" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-18" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="310" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="330" y="304" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
