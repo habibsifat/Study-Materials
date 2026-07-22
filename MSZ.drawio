@@ -43,8 +43,11 @@
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="20 Feet" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="E7O0KfWV2V88D2bBGpZ0-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="30 Feet" vertex="1">
-          <mxGeometry height="30" width="60" x="440" y="305" as="geometry" />
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="30 Feet" vertex="1">
+          <mxGeometry height="30" width="60" x="414" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="30 Feet" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
