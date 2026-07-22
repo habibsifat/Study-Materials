@@ -35,7 +35,16 @@
           <mxGeometry height="30" width="60" x="210" y="290" as="geometry" />
         </mxCell>
         <mxCell id="E7O0KfWV2V88D2bBGpZ0-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Door" vertex="1">
-          <mxGeometry height="30" width="60" x="310" y="470" as="geometry" />
+          <mxGeometry height="30" width="60" x="310" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="20 Feet" vertex="1">
+          <mxGeometry height="30" width="60" x="299" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="20 Feet" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E7O0KfWV2V88D2bBGpZ0-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="30 Feet" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
