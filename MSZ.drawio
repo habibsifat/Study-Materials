@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="340" width="240" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="130" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="302" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="78" x="402" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="78" x="224" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
