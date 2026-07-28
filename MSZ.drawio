@@ -67,6 +67,12 @@
         <mxCell id="H8rP5vTqbXlnD3txTkRy-20" parent="1" style="line;strokeWidth=2;direction=south;html=1;" value="" vertex="1">
           <mxGeometry height="240" width="10" x="224" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="5" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H8rP5vTqbXlnD3txTkRy-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="5" vertex="1">
+          <mxGeometry height="30" width="60" x="202" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
