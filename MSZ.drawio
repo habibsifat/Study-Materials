@@ -173,10 +173,10 @@
           <mxGeometry height="5" width="120" x="425" y="1625" as="geometry" />
         </mxCell>
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-32" parent="1" style="whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="305" y="1565" as="geometry" />
+          <mxGeometry height="60" width="60" x="305" y="1571" as="geometry" />
         </mxCell>
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-33" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="38" width="18" x="305" y="1587" as="geometry" />
+          <mxGeometry height="38" width="18" x="305" y="1592" as="geometry" />
         </mxCell>
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Glass Cabinet&lt;/font&gt;" vertex="1">
           <mxGeometry height="18" width="60" x="365" y="1612" as="geometry" />
