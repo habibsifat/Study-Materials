@@ -290,7 +290,7 @@
           <mxGeometry height="5" width="18" x="332" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="HCBlZsSJMX3-qmjONO95-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mirror" vertex="1">
-          <mxGeometry height="18" width="30" x="515" y="1567" as="geometry" />
+          <mxGeometry height="18" width="30" x="512" y="1567" as="geometry" />
         </mxCell>
         <mxCell id="HCBlZsSJMX3-qmjONO95-6" parent="1" style="whiteSpace=wrap;html=1;direction=south;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;font style=&quot;font-size: 2px;&quot;&gt;middle rack for cloth&lt;/font&gt;" vertex="1">
           <mxGeometry height="43" width="22" x="415" y="1540" as="geometry" />
