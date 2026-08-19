@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram id="9b-wT1w0PzCSr7xWHXYt" name="MSZ">
-    <mxGraphModel dx="1204" dy="-495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="803" dy="-720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,12 @@
         </mxCell>
         <mxCell id="HCBlZsSJMX3-qmjONO95-6" parent="1" style="whiteSpace=wrap;html=1;direction=south;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;font style=&quot;font-size: 2px;&quot;&gt;middle rack for cloth&lt;/font&gt;" vertex="1">
           <mxGeometry height="43" width="22" x="415" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="1sVriPRl3SLZJE1WkXTc-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="Door" vertex="1">
+          <mxGeometry height="10" width="10" x="412" y="1401" as="geometry" />
+        </mxCell>
+        <mxCell id="1sVriPRl3SLZJE1WkXTc-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="Door" vertex="1">
+          <mxGeometry height="10" width="10" x="327" y="1375" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
