@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram id="9b-wT1w0PzCSr7xWHXYt" name="MSZ">
-    <mxGraphModel dx="127" dy="-1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="-651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,8 +154,8 @@
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-73" parent="9SHMh1UnrC2ecJqV2JsG-71" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=360;" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;Cloth: 120*244cm&lt;/font&gt;" vertex="1">
           <mxGeometry width="30" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="9SHMh1UnrC2ecJqV2JsG-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloth Rack: 7 pc&lt;div&gt;Shoe Rack: 2 pc&lt;/div&gt;&lt;div&gt;Bag Rack: 2 pc&lt;/div&gt;&lt;div&gt;Middle Cloth Rack: 2 pc&lt;/div&gt;&lt;div&gt;Glass Cabinet: 1 pc&lt;/div&gt;&lt;div&gt;Slipper Rack: 1 pc&lt;/div&gt;&lt;div&gt;Mirror: 1 pc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="215" x="320" y="1720" as="geometry" />
+        <mxCell id="9SHMh1UnrC2ecJqV2JsG-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cloth Rack: 7 pc&lt;div&gt;Shoe Rack: 2 pc&lt;/div&gt;&lt;div&gt;Bag Rack: 1 pc&lt;/div&gt;&lt;div&gt;Middle Cloth Rack: 2 pc&lt;/div&gt;&lt;div&gt;Glass Cabinet: 1 pc&lt;/div&gt;&lt;div&gt;Slipper Rack: 1 pc&lt;/div&gt;&lt;div&gt;Mirror: 1 pc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="215" x="320" y="1690" as="geometry" />
         </mxCell>
         <mxCell id="e0t7eP832hVKZasutxUY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Shoe: 122cm&lt;/span&gt;" vertex="1">
           <mxGeometry height="5" width="40" x="516.5" y="1445.5" as="geometry" />
