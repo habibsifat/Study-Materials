@@ -47,7 +47,7 @@
           <mxGeometry height="10" width="10" x="467" y="1361" as="geometry" />
         </mxCell>
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="34" vertex="1">
-          <mxGeometry height="30" width="60" x="565" y="1465" as="geometry" />
+          <mxGeometry height="30" width="60" x="550" y="1463" as="geometry" />
         </mxCell>
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-22" parent="1" style="line;strokeWidth=2;direction=south;html=1;" value="" vertex="1">
           <mxGeometry height="330" width="10" x="565" y="1295" as="geometry" />
@@ -67,11 +67,11 @@
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
           <mxGeometry height="5" width="18" x="386" y="1602.5" as="geometry" />
         </mxCell>
-        <mxCell id="9SHMh1UnrC2ecJqV2JsG-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Left Wall" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="1450" as="geometry" />
+        <mxCell id="9SHMh1UnrC2ecJqV2JsG-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="Left Wall" vertex="1">
+          <mxGeometry height="30" width="60" x="254" y="1446" as="geometry" />
         </mxCell>
-        <mxCell id="9SHMh1UnrC2ecJqV2JsG-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Right Wall" vertex="1">
-          <mxGeometry height="30" width="60" x="580" y="1426" as="geometry" />
+        <mxCell id="9SHMh1UnrC2ecJqV2JsG-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="Right Wall" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="1463" as="geometry" />
         </mxCell>
         <mxCell id="9SHMh1UnrC2ecJqV2JsG-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="5" width="65" x="450" y="1631" as="geometry" />
